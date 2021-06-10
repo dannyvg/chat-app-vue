@@ -4,6 +4,7 @@ import "firebase/database";
 const config = {
     apiKey: "AIzaSyDlmwSqVUdEPZzekr8uwYKF7o7zTe3G-3E",
     authDomain: "vue-chat-cf017.firebaseapp.com",
+    databaseURL: "https://vue-chat-cf017-default-rtdb.europe-west1.firebasedatabase.app",
     projectId: "vue-chat-cf017",
     storageBucket: "vue-chat-cf017.appspot.com",
     messagingSenderId: "5920253559",
